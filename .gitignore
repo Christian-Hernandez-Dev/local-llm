@@ -1,0 +1,10 @@
+# Heavy / local folders (".nosync" keeps iCloud from syncing them)
+*.nosync/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+.env.*
+.DS_Store
