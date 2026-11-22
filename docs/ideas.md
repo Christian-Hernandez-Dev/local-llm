@@ -1,3 +1,4 @@
 # Ideas parking lot
 
-- (empty — add "this would be cool" ideas here so they don't derail the current slice)
+- Visualize attention weights: which earlier characters does each head look at?
+- Live loss plot while training
